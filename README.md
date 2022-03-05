@@ -7,6 +7,8 @@ I am a Management Science and Engineering PhD student at the HFUT with Prof.Li a
 
 🔭 I’m currently working on 3D vision, including SLAM and depth estimation.
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Rashfu&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashfu&layout=compact&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Rashfu/Rashfu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
